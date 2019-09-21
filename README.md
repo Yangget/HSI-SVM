@@ -31,8 +31,11 @@ python HSI.py
 ```
 
 #### HIS_K
+![HIS_K](https://github.com/Yangget/HSI-SVM/blob/master/Part_2/HSI_K.png)
 #### HIS_G
+![HIS_G](https://github.com/Yangget/HSI-SVM/blob/master/Part_2/HSI_G.png)
 #### HIS
+![HIS](https://github.com/Yangget/HSI-SVM/blob/master/Part_2/HSI_A.png)
 
 ## 训练HSI_SVM
 ```shell
